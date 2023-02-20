@@ -1,5 +1,5 @@
  <h1 align=" center">Hi👋 i'm Matias Siravegna!</h1>
- <h3 align=" center">Soy un programador full-stack y actualmente estudio en la Tecnicatura Universitaria en Programación de la UTN-FRC. Me apasiona el desarrollo web , y estoy constantemente buscando aprender nuevas tecnologías y mejorar mis habilidades como programador.</h3>
+ <h3 align=" center">I'm a full-stack programmer and I'm currently studying at UTN-FRC's Tecnicatura Universitaria en Programación. I am passionate about web development, and I am constantly looking to learn new technologies and improve my skills as a programmer.</h3>
 
 
 ---
