@@ -6,7 +6,7 @@
 ### About Me :
 
 - 👀 I’m interested in web development and web3
-- 🌱 I’m currently learning web development(Spring Boot - React)
+- 🌱 I’m currently learning web development(Spring Boot - Angular)
 - 📬 How to reach me: **siravegnamatias04@gmail.com**
 - 🏫 Universidad Tecnologica Nacional - Facultad Regional Cordoba
 
@@ -21,7 +21,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" title="JS" alt="JavaScript" width="40" height="40">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40">
     </div>
 </div>
 
