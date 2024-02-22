@@ -1,12 +1,12 @@
  <h1 align=" center">Hi👋 i'm Matias Siravegna!</h1>
- <h3 align=" center">I'm a full-stack programmer and I'm currently studying at UTN-FRC's Tecnicatura Universitaria en Programación. I am passionate about web development, and I am constantly looking to learn new technologies and improve my skills as a programmer.</h3>
+ <h3 align=" center"Hello! I'm a passionate back-end developer, currently wrapping up my studies at UTN-FRC's Technical University Program in Programming. I stand out for my continuous pursuit of learning, problem-solving skills, and commitment to excellence in every project I undertake. I'm excited about future opportunities and eager to contribute and grow in exciting projects. Thank you for visiting my profile!</h3>
 
 
 ---
 ### About Me :
 
-- 👀 I’m interested in web development and web3
-- 🌱 I’m currently learning web development(Spring Boot - Angular)
+- 👀 I’m interested in back-end development and web3
+- 🌱 I’m currently learning Spring Boot and Angular
 - 📬 How to reach me: **siravegnamatias04@gmail.com**
 - 🏫 Universidad Tecnologica Nacional - Facultad Regional Cordoba
 
