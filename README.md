@@ -6,7 +6,7 @@
 ### About Me :
 
 - 👀 I’m interested in back-end development and web3
-- 🌱 I’m currently learning Spring Boot and Angular
+- 🌱 I’m currently learning FastAPI framework for backend development
 - 📬 How to reach me: **siravegnamatias04@gmail.com**
 - 🏫 Universidad Tecnologica Nacional - Facultad Regional Cordoba
 
